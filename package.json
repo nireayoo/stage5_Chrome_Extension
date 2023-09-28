@@ -1,0 +1,20 @@
+{
+  "name": "stage5extension",
+  "version": "1.0.0",
+  "description": "Backend of chrome extension plugin",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "stage5_Chrome_Extension"
+  },
+  "keywords": [
+    "extension",
+    "screen",
+    "record"
+  ],
+  "author": "Seminire Adebiyi",
+  "license": "ISC"
+}
