@@ -4,7 +4,7 @@
   "description": "Backend of chrome extension plugin",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,10 @@
     "record"
   ],
   "author": "Seminire Adebiyi",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cloudinary": "^1.41.0",
+    "dotenv": "^16.3.1",
+    "multer": "^1.4.5-lts.1"
+  }
 }
